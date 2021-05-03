@@ -1,0 +1,25 @@
+
+#button-body{
+    height: 55px;
+}
+.button{
+    border: 0.5px solid rgb(236, 236, 236);
+    padding: 8px 17px;
+    background: transparent;
+    float: right;
+    margin-top: -10px;
+}
+#button-body .button a{
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+
+}
+.getform{
+    box-shadow: 11px 14px 19px 8px rgb(0 0 0 / 13%);
+    padding: 10px;
+    
+}
+.getform h1{
+    color: rebeccapurple;
+}

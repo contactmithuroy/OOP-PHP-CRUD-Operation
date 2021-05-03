@@ -1,0 +1,33 @@
+body{
+    font-family: 'Zen Dots', cursive;
+}
+table{
+    font-family: 'Zen Dots', cursive;
+}
+#button-body{
+    height: 55px;
+}
+.button{
+    border: 0.5px solid rgb(236, 236, 236);
+    padding: 8px 17px;
+    background: transparent;
+    float: right;
+    margin-top: -10px;
+    font-family: 'Zen Dots', cursive;
+}
+#button-body .button a{
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+
+}
+/* .edit,
+.delete{
+    text-align:center;
+} */
+
+.getform{
+    /* border: 0.5px solid rgb(19, 17, 17); */
+    background: brown;
+    
+}
